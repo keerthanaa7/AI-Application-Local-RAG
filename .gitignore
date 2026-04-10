@@ -1,0 +1,22 @@
+# Local Vector Database
+chroma_db/
+
+# Virtual Environments
+ai_env/
+.venv/
+env/
+venv/
+
+# Python Precompiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# macOS System Files
+.DS_Store
+
+# Data files (Optional: ignore if data.txt contains private info)
+# data.txt
